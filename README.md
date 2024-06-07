@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c40aff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luiz+Henrique;Tenho+18+anos;E+Estudo+analise+e+Desenvolvimento+de+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorocks51987&show_icons=true&theme=radical)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ##
 
@@ -24,3 +23,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c40aff&height=120&section=footer"/>
+
+![Snake animation](https://github.com/lorocks51987/lorocks51987/blob/output/github-contribution-grid-snake.svg)
