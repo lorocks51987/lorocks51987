@@ -4,7 +4,6 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lorocks51987&theme=radical&hide_border=verdadeiro&locale=pt_BR&card_width=501)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=9e4c98&line=ff00ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
