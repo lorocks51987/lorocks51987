@@ -89,6 +89,8 @@ Toda semana um novo episódio trazendo a história e os sonhos por trás de prof
 
 [![Atividade de Luiz no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![snake gif](https://github.com/lorocks51987/lorocks51987/blob/output/github-snake-dark.svg)
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
