@@ -21,6 +21,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 - 📍 Marília - SP  
 - 📬 E-mail: [lorocks57321@gmail.com](mailto:lorocks57321@gmail.com)
 
+<img align="right" height="200" src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" />
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
