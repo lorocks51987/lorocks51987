@@ -1,9 +1,11 @@
 name: Generate pacman animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  schedule: # executa a cada 12 horas
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -21,7 +23,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: move svg to dist folder
+      - name: create dist folder and move svg
         run: |
           mkdir -p dist
           mv pacman-contribution-graph.svg dist/
