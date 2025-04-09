@@ -36,3 +36,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+        - name: Procurar arquivos SVG no repositório
+        run: find . -name "*.svg"
+
