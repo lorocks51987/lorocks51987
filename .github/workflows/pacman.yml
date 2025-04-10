@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "30 0 * * *" # também roda todo dia, mas 30 min depois do Snake
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,10 +13,13 @@ jobs:
       - name: Clonar repositório
         uses: actions/checkout@v3
 
-      - name: Gerar pacman-contribution-graph.svg
+      - name: Gerar SVG do Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: lorocks51987
+
+      - name: Verificar arquivos gerados
+        run: ls -R
 
       - name: Mover SVG para pasta dist
         run: |
