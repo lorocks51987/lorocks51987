@@ -1,28 +1,29 @@
-name: Generate Pacman Contribution Graph
+name: 🟡 Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * 3"  # Quarta-feira à meia-noite
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: 📥 Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph
-        uses: tody-lo/pacman-contribution-graph@v1
-        with:
-          username: lorocks51987
-          theme: dark
-          output_path: ./output/pacman
+      - name: 🟨 Gerar Pacman SVG
+        run: |
+          curl -o pacman.svg "https://pacman-github-contributions.vercel.app/api/pacman?username=SEU_USUARIO"
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: output/pacman
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📄 Atualizar README
+        run: |
+          sed -i '/<!--PACMAN-->/, /<!--PACMAN END-->/c\<!--PACMAN-->\n<img src="pacman.svg"/>\n<!--PACMAN END-->' README.md
+
+      - name: 🚀 Commit e Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md pacman.svg
+          git commit -m "update: pacman contribution graph" || echo "Nada pra commitar"
+          git push
