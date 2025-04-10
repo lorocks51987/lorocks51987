@@ -84,6 +84,8 @@ Sempre um novo episódio trazendo a história e os sonhos por trás de profissio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="36px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="30px" />
+  <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" title="gpt" alt="gpt" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="30px" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30px" />
