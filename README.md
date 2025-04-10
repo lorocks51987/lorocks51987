@@ -23,6 +23,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 
 ---
 
+### 👾 Meu gráfico de contribuições em modo Pac-Man:
+
+![Pacman graph](https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg)
 
 
 ---
