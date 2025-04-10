@@ -23,9 +23,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 
 ---
 
-### 👾 Meu gráfico de contribuições em modo Pac-Man:
+<br clear="both">
 
-![Pacman GIF](https://github.com/lorocks51987/lorocks51987/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 ---
