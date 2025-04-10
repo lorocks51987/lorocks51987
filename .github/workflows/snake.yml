@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Atualiza a cada 6h
+    - cron: "0 */6 * * *"
   push:
     branches:
       - main
@@ -20,6 +20,9 @@ jobs:
             ./output/snake.svg
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
+
+      - name: Create output folder if not exists
+        run: mkdir -p ./output
 
       - name: Commit and push
         run: |
