@@ -23,11 +23,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 
 ---
 
-
-
-
----
-
 ## 🌐 Redes sociais
 
 <p align="center">
@@ -47,9 +42,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 
 ---
 
-## 🎙️ Codecast - Podcast da galera tech da Unimar
+## 🎙️ Codecast - Primeiro Podcast feitos por alunos de Tecnologia da Unimar
 
-Toda semana um novo episódio trazendo a história e os sonhos por trás de profissionais incríveis. Bora ouvir?
+Sempre um novo episódio trazendo a história e os sonhos por trás de profissionais incríveis. Bora ouvir?
 
 <p align="center">
   <a href="https://www.youtube.com/@codecast_unimar" target="_blank">
@@ -67,7 +62,7 @@ Toda semana um novo episódio trazendo a história e os sonhos por trás de prof
 
 ---
 
-<h3 align="center">🧠 Competências</h3>
+## 🧠 Competências
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30px" />
@@ -99,10 +94,27 @@ Toda semana um novo episódio trazendo a história e os sonhos por trás de prof
 
 [![Atividade de Luiz no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
+## 🕹️ Gráficos animados de contribuição
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
 
 <img 
   width="100%" 
