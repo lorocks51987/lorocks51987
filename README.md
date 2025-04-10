@@ -24,11 +24,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg" />
-  <img alt="snake graph" src="./output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman.svg" alt="Pac-Man GitHub contribution graph" />
 </picture>
 
-<img src="./dist/pacman-contribution-graph.svg" alt="Pacman graph">
 
 ---
 
