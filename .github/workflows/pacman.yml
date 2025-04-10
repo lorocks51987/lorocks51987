@@ -18,13 +18,17 @@ jobs:
         with:
           github_user_name: lorocks51987
 
-      - name: Verificar arquivos gerados
-        run: ls -R
+      - name: Ver arquivos gerados
+        run: |
+          echo "Arquivos na raiz:"
+          ls -lah
+          echo "Arquivos no output:"
+          ls -lah output
 
-      - name: Mover SVG para pasta dist
+      - name: Mover SVG gerado
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
+          mv output/*.svg dist/
 
       - name: Commit e push
         uses: EndBug/add-and-commit@v9
