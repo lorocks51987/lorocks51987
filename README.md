@@ -96,24 +96,6 @@ Sempre um novo episódio trazendo a história e os sonhos por trás de profissio
 
 ---
 
-## 🕹️ Gráficos animados de contribuição
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
 
 <img 
