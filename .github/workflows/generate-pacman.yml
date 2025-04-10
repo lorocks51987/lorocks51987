@@ -2,35 +2,26 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # todo domingo à meia-noite (UTC)
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # A cada 6 horas
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout do código
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Configura Python
-        uses: actions/setup-python@v4
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          python-version: '3.x'
+          github_user_name: lorocks51987
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake.gif
 
-      - name: Instala dependências (se tiver)
-        run: pip install -r requirements.txt || echo "Sem dependências"
-
-      - name: Roda o script do Pacman
-        run: python3 pacman.py
-
-      - name: Cria a pasta output e move o SVG
-        run: |
-          mkdir -p output
-          mv pacman-contribution-graph.svg output/
-
-      - name: Publica na branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: output
