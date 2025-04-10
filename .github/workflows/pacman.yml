@@ -1,31 +1,32 @@
-name: Generate Pacman
+name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # 2x por dia
+    - cron: "30 0 * * *" # também roda todo dia, mas 30 min depois do Snake
   workflow_dispatch:
 
 jobs:
-  pacman:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Clonar repositório
         uses: actions/checkout@v3
 
-      - name: Gera Pacman SVG
-        uses: tody-lo/pacman-contribution-graph@main
+      - name: Gerar pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: lorocks51987
 
-      - name: Move arquivo para dist/
+      - name: Mover SVG para pasta dist
         run: |
           mkdir -p dist
           mv pacman-contribution-graph.svg dist/
 
-      - name: Commit e Push
+      - name: Commit e push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: actions@github.com
-          message: 'Atualiza gráfico Pacman 👾'
-          add: 'dist/*.svg'
+          message: "Atualiza gráfico Pacman 🟡"
+          add: "dist/*"
