@@ -2,7 +2,7 @@ name: Generate pacman contribution graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todos os dias à meia-noite
+    - cron: '0 0 * * *'  # roda diariamente
   workflow_dispatch:
 
 jobs:
@@ -13,23 +13,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Install dependencies
-        run: npm install -g @jakejarvis/pacman-canvas
-
       - name: Generate Pac-Man SVG
         run: |
-          mkdir -p output
-          pacman-canvas --username lorocks51987 --output ./output/pacman.svg
+          mkdir -p dist
+          docker run --rm -v ${{ github.workspace }}/dist:/out ghcr.io/lxgr-linux/pacman-gh-contributions
 
-      - name: Commit and push
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Atualiza gráfico Pac-Man 🟢"
-          add: 'output/pacman.svg'
+          message: "Atualiza gráfico Pac-Man 🟡"
+          add: 'dist/pacman-contribution-graph.svg'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
