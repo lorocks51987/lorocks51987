@@ -31,12 +31,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 ---
@@ -111,6 +105,13 @@ Sempre um novo episódio trazendo a história e os sonhos por trás de profissio
 </div>
 
 [![Atividade de Luiz no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+###
+
+<img src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
