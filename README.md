@@ -22,10 +22,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 - 📬 E-mail: [lorocks57321@gmail.com](mailto:lorocks57321@gmail.com)
 
 ---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -85,13 +86,8 @@ Toda semana um novo episódio trazendo a história e os sonhos por trás de prof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" alt="git" width="30px" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="canva" alt="canva" width="30px" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="canva" alt="canva" width="30px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="notion" alt="notion" width="30px" />   
-
-
-          
-          
-          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="30px" />
 </p>
 
@@ -107,7 +103,7 @@ Toda semana um novo episódio trazendo a história e os sonhos por trás de prof
 [![Atividade de Luiz no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github.com/lorocks51987/lorocks51987/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://github.com/lorocks51987/lorocks51987/blob/output/snake/github-snake-dark.svg" alt="snake gif">
 </p>
 
 ---
