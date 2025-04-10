@@ -33,6 +33,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 
 ###
 
+<img src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 ---
 
