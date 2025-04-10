@@ -2,34 +2,34 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 0'  # todo domingo à meia-noite (UTC)
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checa o repositório
+      - name: Checkout do código
         uses: actions/checkout@v3
 
-      - name: Instala dependências
-        run: sudo apt-get install -y python3 python3-pip git
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-      - name: Baixa o script do Pacman
-        run: curl -sSL https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman-contribution-graph.py -o pacman.py
+      - name: Instala dependências (se tiver)
+        run: pip install -r requirements.txt || echo "Sem dependências"
 
-      - name: Roda o script com seu usuário
-        run: python3 pacman.py lorocks51987
+      - name: Roda o script do Pacman
+        run: python3 pacman.py
 
-      - name: Mostra os arquivos gerados
-        run: find . -type f
-
-      - name: Cria pasta output e move o SVG
+      - name: Cria a pasta output e move o SVG
         run: |
           mkdir -p output
           mv pacman-contribution-graph.svg output/
 
-      - name: Publica na branch `output`
+      - name: Publica na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
