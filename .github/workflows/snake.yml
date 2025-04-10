@@ -2,25 +2,29 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # todos os dias
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate GitHub Snake SVG
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: lorocks51987
           outputs: |
-            ./output/github-snake.svg
-            ./output/github-snake-dark.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push
+      - name: Commit e push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: actions@github.com
-          message: 'Atualiza gráfico Snake 🐍'
-          add: 'output/*.svg'
+          message: "Atualiza gráfico Snake 🐍"
+          add: "dist/*"
