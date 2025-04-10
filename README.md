@@ -23,7 +23,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado po
 
 ---
 
-![Pacman](https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg)
 
 
 ---
