@@ -1,7 +1,4 @@
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&animation=fadeIn"
-/>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)](https://github.com/lorocks51987)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo)](https://git.io/typing-svg)
 
@@ -13,13 +10,54 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Unimar, apaixonado por tecnologia, programação, inovação e fotografia 📸. Sempre em busca de aprender algo novo 🚀
+> *"Transformando linhas de código em soluções que fazem a diferença!"* 💻✨
 
-- 👨‍💻 Atualmente sou estagiário de desenvolvimento na Unimar  
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIMAR  
-- 🎙️ Co-host do [CodeCast](https://www.youtube.com/@codecast_unimar)  
-- 📍 Marília - SP  
-- 📬 E-mail: [lorocks57321@gmail.com](mailto:lorocks57321@gmail.com)
+Olá! Sou **Luiz Henrique**, um desenvolvedor apaixonado por criar experiências digitais incríveis. Atualmente estudo **Análise e Desenvolvimento de Sistemas na Unimar** e trabalho como **estagiário de desenvolvimento**, onde coloco em prática todos os dias minha paixão por resolver problemas através da tecnologia.
+
+### 🎯 **Minha Jornada**
+- 👨‍💻 **Estagiário de Desenvolvimento** na Unimar
+- 🎓 **Estudante de ADS** na UNIMAR - 4º período
+- 🔒 **Estudando Cibersegurança** - explorando o mundo da segurança digital
+- 🎙️ **Co-host do CodeCast** - primeiro podcast de tecnologia da Unimar
+- 📸 **Fotógrafo nas horas vagas** - capturando momentos únicos
+- 🚀 **Sempre aprendendo** - tecnologia nunca para de evoluir!
+
+### 🌟 **Meus Objetivos**
+- Tornar-me um **Full Stack Developer** especializado
+- Desenvolver expertise em **Cibersegurança** e segurança de aplicações
+- Criar soluções que protejam dados e sistemas
+- Continuar crescendo através do **CodeCast** e networking
+- Contribuir para a comunidade tech com projetos open-source
+
+### 📍 **Localização & Contato**
+- 📍 **Marília - SP** | Brasil 🇧🇷
+- 📧 **E-mail:** [lorocks57321@gmail.com](mailto:lorocks57321@gmail.com)
+
+---
+
+## 🚀 **Projetos em Destaque**
+
+### 🎙️ **CodeCast - Landing Page**
+> *Landing page oficial do podcast CodeCast da UNIMAR*
+
+- 🎯 **Objetivo:** Site oficial do podcast com informações, episódios e métricas
+- 🛠️ **Tecnologias:** React, TypeScript, Tailwind CSS, Vite
+- 🌐 **Live:** [code-cast-two.vercel.app](https://code-cast-two.vercel.app)
+- 📱 **Features:** Dashboard com métricas do YouTube, seção de convidados, design responsivo
+- ⭐ **Destaque:** Projeto que combina desenvolvimento web com conteúdo de podcast
+
+[![CodeCast Repository](https://img.shields.io/badge/Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorocks51987/CodeCast)
+
+### 🏛️ **Instituto Vozes Fortes**
+> *Site institucional para projeto de impacto social*
+
+- 🎯 **Objetivo:** Plataforma para o Instituto Vozes Fortes - educação e apoio contra dependência química
+- 🛠️ **Tecnologias:** React, TypeScript, Tailwind CSS, shadcn/ui
+- 🌐 **Live:** [vozesfortes.com.br](https://vozesfortes.com.br/)
+- 💝 **Impacto:** Site que apoia causa social importante na comunidade
+- ⭐ **Destaque:** Projeto com propósito social, demonstrando responsabilidade como desenvolvedor
+
+[![Vozes Fortes Repository](https://img.shields.io/badge/Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorocks51987/vozesFortes)
 
 ---
 
@@ -71,6 +109,20 @@ Sempre um novo episódio trazendo a história e os sonhos por trás de profissio
     />
   </a>
 </p>
+
+
+---
+
+## 🏆 **Conquistas**
+
+### 🎓 **Bootcamp Jovem Programador - UNIMAR**
+- 🥈 **2º Lugar** como participante (2023)
+- 👨‍🏫 **Monitor/Professor** no Bootcamp 2025
+- 📚 **Ensinou:** HTML, CSS e JavaScript
+
+### 🚀 **CODEEXPERIENCE 2025 - UNIMAR**
+- 👨‍🏫 **Monitor e Professor** de Python
+- 🎯 **Público:** Alunos do ensino técnico e médio
 
 ---
 
