@@ -79,7 +79,6 @@ Co-host de podcast voltado à tecnologia, com foco em explorar a trajetória de 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorocks51987&show_icons=true&theme=transparent&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorocks51987&layout=compact&theme=transparent&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" />
 </div>
 
