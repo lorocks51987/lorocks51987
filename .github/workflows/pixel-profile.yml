@@ -23,13 +23,13 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           crt_outputs: |
-            pixel-profile-crt.svg?username=lorocks51987&include_all_commits=true
+            dist/pixel-profile-crt.svg?username=lorocks51987&include_all_commits=true
             
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "Gerando Pixel Profile CRT"; then
+          if git commit -m "Gerando Pixel Profile CRT na pasta dist"; then
             git push
           fi
