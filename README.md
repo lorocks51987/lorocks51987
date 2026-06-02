@@ -1,4 +1,8 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)](https://github.com/lorocks51987)
+<div align="center">
+  <a href="https://github.com/lorocks51987">
+    <img src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" alt="MasterHead">
+  </a>
+</div> 
 
 ## 👋 Olá, eu sou Luiz Henrique!
 
