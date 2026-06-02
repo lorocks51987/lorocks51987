@@ -4,6 +4,14 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="dist/pixel-profile-crt.svg" alt="Estatísticas do GitHub em Pixel Art (CRT)" />
+</div>
+
+<br>
+
 ## 👋 Olá, eu sou Luiz Henrique!
 
 🚀 **Desenvolvedor de Software**
