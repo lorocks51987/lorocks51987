@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="dist/pixel-profile-crt.svg" alt="Estatísticas do GitHub em Pixel Art (CRT)" />
+  <img src="pixel-profile-crt.svg.png" alt="Estatísticas do GitHub em Pixel Art (CRT)" />
 </div>
 
 <br>
