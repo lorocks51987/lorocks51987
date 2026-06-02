@@ -1,0 +1,32 @@
+name: generate-and-upload-card
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Card
+        uses: LuciNyan/pixel-profile/action@main
+        with:
+          crt_outputs: |
+            pixel-profile-crt.svg?username=lorocks51987
+            
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pixel-profile-crt.svg
+          git commit -m "Forçando gravação do Pixel Profile" || exit 0
+          git push
