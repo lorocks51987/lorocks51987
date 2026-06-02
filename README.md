@@ -1,16 +1,8 @@
 <div align="center">
   <a href="https://github.com/lorocks51987">
-    <img src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" alt="MasterHead">
+    <img src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" width="100%" alt="MasterHead">
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="dist/pixel-profile-crt.svg.png" alt="Estatísticas do GitHub em Pixel Art (CRT)" />
-</div>
-
-<br>
 
 ## 👋 Olá, eu sou Luiz Henrique!
 
@@ -95,14 +87,16 @@ Além do código, sou apaixonado por ensino e comunidade. Sou co-host e co-funda
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true" alt="Atividade no GitHub">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true" width="100%" alt="Atividade no GitHub">
   </a>
-</div>
 
-<br>
+  <br><br>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="Gráfico de Contribuição 3D" />
+  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="Gráfico de Contribuição 3D" />
+
+  <br><br>
+
+  <img src="dist/pixel-profile-crt.svg.png" width="600" alt="Estatísticas do GitHub em Pixel Art (CRT)" />
 </div>
 
 ---
