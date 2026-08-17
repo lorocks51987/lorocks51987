@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   <a href="https://github.com/lorocks51987">
-    <img src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" width="100%" alt="MasterHead">
+    <img width="250" height="250" alt="From Klickpin com- Classic Snack Board Ideas Worth Trying-pin-id-12384967718758785" src="https://github.com/user-attachments/assets/99d9fa8e-87dd-4820-bb45-553edf34c956" />
   </a>
 </div>
 
@@ -79,24 +79,6 @@ Além do código, sou apaixonado por ensino e comunidade. Sou co-host e co-funda
 - 🎙️ **Co-Host do CodeCast** (Explorando a trajetória de profissionais da área tech)
 - 👨‍🏫 **Instrutor em Eventos de Tecnologia** (Ensino de HTML, CSS, JavaScript e Python)
 - 🥈 **Bootcamp Jovem Programador (UNIMAR)** - 2º lugar
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorocks51987&bg_color=000000&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=true" width="100%" alt="Atividade no GitHub">
-  </a>
-
-  <br><br>
-
-  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="Gráfico de Contribuição 3D" />
-
-  <br><br>
-
-  <img src="dist/pixel-profile-crt.svg.png" width="600" alt="Estatísticas do GitHub em Pixel Art (CRT)" />
-</div>
 
 ---
 
