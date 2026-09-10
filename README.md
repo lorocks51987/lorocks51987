@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://github.com/lorocks51987">
-    <img width="250" height="250" alt="From Klickpin com- Classic Snack Board Ideas Worth Trying-pin-id-12384967718758785" src="https://github.com/user-attachments/assets/99d9fa8e-87dd-4820-bb45-553edf34c956" />
+    <img width="2560" height="1440" alt="gpir30a1cqud1" src="https://github.com/user-attachments/assets/4f381c94-f13c-42ae-b3bc-251d8346aa87" />
   </a>
 </div>
 
@@ -81,7 +81,11 @@ Além do código, sou apaixonado por ensino e comunidade. Sou co-host e co-funda
 - 🥈 **Bootcamp Jovem Programador (UNIMAR)** - 2º lugar
 
 ---
-
+<div align="left">
+  <a href="https://github.com/lorocks51987">
+    <img width="200" height="200" alt="From Klickpin com- Classic Snack Board Ideas Worth Trying-pin-id-12384967718758785" src="https://github.com/user-attachments/assets/99d9fa8e-87dd-4820-bb45-553edf34c956" />
+  </a>
+</div>
 ## 🌐 Contato
 
 📧 lorocks57321@gmail.com
