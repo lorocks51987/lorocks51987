@@ -1,6 +1,10 @@
 <div align="left">
   <a href="https://github.com/lorocks51987">
-    <img width="2560" height="1440" alt="gpir30a1cqud1" src="https://github.com/user-attachments/assets/4f381c94-f13c-42ae-b3bc-251d8346aa87" />
+    <img
+      src="https://github.com/user-attachments/assets/4f381c94-f13c-42ae-b3bc-251d8346aa87"
+      width="100%"
+      alt="Luiz Henrique - Apresentação"
+    />
   </a>
 </div>
 
